@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+.container p {
+    background-color: rgb(253, 253, 73);
+    color: rgb(161, 20, 20);
+    font-size: 20px;
+    text-align: center;
+}
